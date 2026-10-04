@@ -4,6 +4,7 @@
 
 The project is primarily modular/procedural C++ rather than class-heavy object-oriented C++. The following diagram therefore models the central structures.
 
+
 ```mermaid
 classDiagram
     class Process {
