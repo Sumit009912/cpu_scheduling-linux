@@ -7,7 +7,6 @@
 
 struct AlgorithmResult {
     std::string name;
-
     double averageWaitingTime;
     double averageTurnaroundTime;
     double averageResponseTime;
